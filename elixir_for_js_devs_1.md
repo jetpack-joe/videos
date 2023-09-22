@@ -43,7 +43,7 @@ Let's learn Elixir starting at a simple programming challenge.
 The Collatz conjecture states that for any positive integer:
 
 - If it is even you divide by 2,
-- If it is odd you multiply by 33 and add one
+- If it is odd you multiply by 3 and add one
 - Eventually this process will reach the number one.
 
 Lets look at a program to calculate how many steps this would take using JavaScript and Elixir.
