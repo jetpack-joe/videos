@@ -19,6 +19,23 @@ theme: gaia
 
 # Elixir for JS Devs
 
+
+<br/>
+
+Syntax and Running Code
+
+
+---
+
+## Elixir?
+
+> Elixir is a dynamic, functional language for building scalable and maintainable applications. 
+
+
+Elixir is especially suited for the web development space because of how easy it is to write concurrent and parallel code.
+
+Let's learn Elixir starting at a simple programming challenge.
+
 ---
 
 ## The Collatz conjecture
